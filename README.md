@@ -20,7 +20,7 @@ The Pig Game is a turn-based dice game that tests your luck and strategy. Player
 
 ## Features
 
-- Two-player gameplay with real-time score updates.
+- Two-player game play with real-time score updates.
 - Dynamic UI updates based on game events.
 - Reset functionality to restart the game.
 - Simple, responsive design for an engaging user experience.
