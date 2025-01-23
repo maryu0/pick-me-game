@@ -38,3 +38,15 @@ The Pig Game is a turn-based dice game that tests your luck and strategy. Player
 - **HTML**: For structuring the web page.
 - **CSS**: For styling the game interface.
 - **JavaScript**: For implementing the game logic and interactivity.
+
+---
+
+# Pick-Me Game
+
+This is a fun and interactive game where players test their reflexes and decision-making skills.
+
+## Technologies Used
+
+- **HTML**: For structuring the webpage.
+- **CSS**: For styling the game interface.
+- **JavaScript**: For implementing the game logic and interactivity.
