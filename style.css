@@ -169,3 +169,15 @@ main {
 .hidden {
   display: none;
 }
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  color: #fff;
+  font-size: 1.4rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
