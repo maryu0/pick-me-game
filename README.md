@@ -16,7 +16,7 @@ Welcome to the **Pig Game**! This is a simple and fun dice game where two player
 
 ## About the Game
 
-The Pig Game is a turn-based dice game that tests your luck and strategy. Players take turns rolling a dice to accumulate points, but beware—rolling a 1 will cost you all the points you’ve earned in that round!
+The Pig Game is a turn-based dice game that tests your luck and strategy. Players take turns rolling a dice to accumulate points, but beware—rolling a 1 will cost you all the points you’ve earned in that round!!!
 
 ## Features
 
@@ -36,17 +36,5 @@ The Pig Game is a turn-based dice game that tests your luck and strategy. Player
 ## Technologies Used
 
 - **HTML**: For structuring the web page.
-- **CSS**: For styling the game interface.
-- **JavaScript**: For implementing the game logic and interactivity.
-
----
-
-# Pick-Me Game
-
-This is a fun and interactive game where players test their reflexes and decision-making skills.
-
-## Technologies Used
-
-- **HTML**: For structuring the webpage.
 - **CSS**: For styling the game interface.
 - **JavaScript**: For implementing the game logic and interactivity.
